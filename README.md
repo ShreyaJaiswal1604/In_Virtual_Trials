@@ -1,4 +1,4 @@
-# In_Virtual_Trials# In Silico Mouse Trial Simulator
+# In_Virtual_Trials Simulator
 
 A Streamlit‑based web app that uses an LLM (OpenAI GPT‑4o) to simulate preclinical mouse trials. Researchers enter molecular and biological parameters, and the system returns mechanistically grounded predictions—toxicity, mouse effects, temperature curves, pathway modulation, activity loss, immune profile—and a clear **pass / fail / uncertain** outcome.
 
